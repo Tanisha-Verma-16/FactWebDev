@@ -1,0 +1,28 @@
+- Browser sends a request to the server the website is hosted
+- Server is a computer connected to internet that can take up requests like these.
+- Every website is stored on a server
+- Server receive the requests and sends all the files(Html, CSS, Javascript) that make up the website
+- Backend contains an application that is running on the server along with the database required to run 
+  the website.
+- Browser can also request raw data and server sends that from the database.
+- 
+Html
+- Used to structure abd describe the entire content of a webpage: paragraphs, links, headings, images, videos
+- Browsers understand html code
+- Anatomy of html element : opening tag, content (child content or no content(img tag)) and closing tag
+    <p>Content of the element</p>
+- ! + enter to create boiler plate
+- <span> is used to create a seperate element within an element so we can style it seperately using CSS
+- <a href = "" target = "_blank"></a> : anchor tag is used to create hyper links, href holds the address to the link and target = blank indiates 
+  opening of the link in the new tab. both href and target are attributes which are invisible description of elements on how should the behavee
+- <img src = "file path /> : file path can be folder/file.name in case file isn't in the same folder.
+- Structure of Html
+
+CSS
+- Selector(of html elements in the file){
+  Declarations:-
+  properties : value
+  properties : value
+  properties : value
+  properties : value
+}
